@@ -9,4 +9,4 @@ Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindar
 - Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
 
 
-<h1># SEGALA BENTUK PLAGIASI AKAN MEMBUAT AKUN ANDA DI BAN DARI DICODING, REPOSITORY INI DITUJUKAN UNTUK REFERENSI</h1>
+<h1># SEGALA BENTUK PLAGIASI AKAN MEMBUAT AKUN ANDA DI BAN DARI DICODING, REPOSITORY INI DITUJUKAN UNTUK REFERENSI!</h1>
