@@ -14,7 +14,7 @@ Fitur yang terdapat pada submission agar mendapat penilaian dengan bintang sempu
   
 ## Closing
 Bebas untuk menggunakan repository ini sebagai referensi tugas kamu!
-<br>https://github.com/fajarhardeka/kotlin-submission-dicoding</br>
+<br>https://github.com/fajarhardeka/Kotlin-Submission-Dicoding</br>
 
 ### Author
 Fajar Hardeka (https://instagram.com/fajarhardeka)
