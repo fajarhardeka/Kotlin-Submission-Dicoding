@@ -1,12 +1,26 @@
-# Proyek Submission MPK dicoding Fajar Hardeka
+# Memulai-Pemrograman-Dengan-Kotlin-Dicoding
+Proyek Akhir - Fajar Hardeka
 
-**Aturan mengerjakan submission**<br>
-Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
+# Dicoding Submission Akhir - Memulai Pemrograman Dengan Kotlin
+https://www.dicoding.com/academies/80
 
-- Mengubah kode yang berada di dalam fungsi main()
-- Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
-- Membuat fungsi baru yang bukan merupakan tugas latihan
-- Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
+## Features
+Fitur yang terdapat pada submission agar mendapat penilaian dengan bintang sempurna (5 stars):
+
+- Latihan yang dikerjakan up-to-date.
+- Semua latihan sudah dikerjakan.
+- Semua latihan dapat dijalankan dengan benar.
+- Menuliskan kode dengan baik dan benar.
+  
+## Closing
+Bebas untuk menggunakan repository ini sebagai referensi tugas kamu!
+<br>https://github.com/fajarhardeka/kotlin-submission-dicoding</br>
+
+### Author
+Fajar Hardeka (https://instagram.com/fajarhardeka)
+
+### Notes
+Segala bentuk plagiasi akan membuat akun dicoding anda dinonaktifkan sementara, jikalau parah akun anda akan di banned oleh dicoding. Maka gunakan repositori ini hanya untuk referensi anda. Thanks!
 
 
-<h1>SEGALA BENTUK PLAGIASI AKAN MEMBUAT AKUN ANDA DI BAN DARI DICODING, REPOSITORY INI DITUJUKAN UNTUK REFERENSI DAN ARSIP UNTUK AUTHOR!</h1>
+
